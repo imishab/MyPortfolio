@@ -6,7 +6,7 @@ const HeroBanner = () => {
         <div className="hero-section position-relative overflow-hidden">
             <div className="row min-vh-100 align-items-center">
                 <div className="col-lg-7 py-5 banner-content">
-                    <h5 className="greeting mb-1">Hello I'm Mishab</h5>
+                    <h5 className="greeting mb-1">{` Hello I'm Mishab `}</h5>
                     <h1 className="banner-title mb-2">
                         Passionate Frontend Web Developer, experienced in creating user friendly Websites & Web applications
                     </h1>
